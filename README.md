@@ -52,15 +52,40 @@ It is not indeed to work as a substitute to full documentation for all the libra
     
     4.8 Conditional selection.
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+## 5. Pandas.
 
+    5.1 Series.
+    
+    5.2 DataFrames: creation and conditional selection.
+    
+    5.3 Index and multiple indexing.
+    
+    5.4 Missing data.
+    
+    5.5 GroupBy.
+    
+    5.6 Merging, joining and concatenating Dataframes.
+    
+    5.7 Pandas common operations.
+    
+    5.8 Data input and output.
+    
+    5.9 Data sources and pandas datareades.
+    
+    5.10 Quandl.
+    
+    5.11 Time Series Data.
+    
+    5.12 DateTime.
+    
+    5.13 Time resampling.
+    
+    5.14 Time shifting.
+    
+    5.15 Rolling and expanding.
+    
+        5.15.1 Rolling.
+        
+        5.15.2 Expanding.
+        
+        5.15.3 Example: Bollinger bands.

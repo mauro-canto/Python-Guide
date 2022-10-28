@@ -89,3 +89,25 @@ It is not indeed to work as a substitute to full documentation for all the libra
         5.15.2 Expanding.
         
         5.15.3 Example: Bollinger bands.
+        
+## 6. Matplotlib
+
+    6.1 Functional Approach.
+    
+    6.2 Object Oriented Approach.
+    
+    6.3 Save a figure into a file.
+    
+    6.4 Customization.
+    
+    6.5 Axis range.
+    
+    6.6 Other plots.
+    
+    
+    
+    
+    
+    
+
+    

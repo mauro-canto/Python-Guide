@@ -90,7 +90,7 @@ It is not indeed to work as a substitute to full documentation for all the libra
         
         5.15.3 Example: Bollinger bands.
         
-## 6. Matplotlib
+## 6. Matplotlib.
 
     6.1 Functional Approach.
     
@@ -104,10 +104,94 @@ It is not indeed to work as a substitute to full documentation for all the libra
     
     6.6 Other plots.
     
-    
-    
-    
-    
-    
+## 7. Pandas + Matplotlib visualization.
 
+    7.1 Pandas time series visualization.
+        
+        7.1.1 Date changing.
+        
+## 8. Seaborn.
+
+    8.1 Distribution plots.
     
+        8.1.1 Dist Plot.
+        
+        8.1.2 Joint Plot.
+        
+        8.1.3 Pair Plot.
+        
+        8.1.4 Rug Plot.
+        
+        8.1.5 kde Plot.
+        
+    8.2 Categorical plots.
+    
+        8.2.1 Bar plot.
+        
+        8.2.2 Count plot.
+        
+        8.2.3 Box plot.
+        
+        8.2.4 Violin plot.
+        
+        8.2.5 Strip plot.
+        
+        8.2.6 Swarm plot.
+        
+        8.2.7 Combination of plots.
+        
+        8.2.8 Factor plot.
+        
+    8.3 Matrix plots.
+    
+        8.3.1 Heat map.
+        
+        8.3.2 Cluster map.
+        
+    8.4 Grids.
+    
+        8.4.1 Pair grid.
+        
+        8.4.2 Facet grid.
+        
+        8.4.3 Joint grid.
+        
+    8.5 Regression plots.
+        
+        8.5.1 Hues and grids.
+        
+        8.5.2 Markers.
+        
+     8.6 Aspect, size, style and color.
+     
+        8.6.1 Aspect and sise.
+        
+        8.6.2 Style.
+        
+        8.6.3 Spines.
+        
+        8.6.4 Context.
+        
+        8.6.5 Palettes and colors.
+        
+## 9. Plotly and Cufflinks.
+
+    9.1 Scatter plot.
+    
+    9.2 Bar plot.
+    
+    9.3 Box plot.
+    
+    9.4 3D Suface.
+    
+    9.5 Histogram.
+    
+    9.6 Spread plot.
+    
+    9.7 Bubble plot.
+    
+    9.8 Scatter matrix.
+    
+    9.9 Candle plot.
+    
+## 10 Geographical plots.

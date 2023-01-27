@@ -194,4 +194,22 @@ It is not indeed to work as a substitute to full documentation for all the libra
     
     9.9 Candle plot.
     
-## 10 Geographical plots.
+## 10. Geographical plots.
+
+## 11. Scikit Learn.
+
+    11.1 Linear regression.
+    
+    11.2 Logistic regression.
+    
+        11.2.1 Dealing with categorical variables.
+        
+        11.2.2 Statistical model.
+        
+    11.3 K Nearest Neighbours (KNN)
+    
+        11.3.1 Standarize the data.
+        
+        11.3.2 Statistical model.
+        
+        11.3.3 Elbow mehtod to chose an optimal K value.

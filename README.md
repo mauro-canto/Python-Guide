@@ -206,10 +206,24 @@ It is not indeed to work as a substitute to full documentation for all the libra
         
         11.2.2 Statistical model.
         
-    11.3 K Nearest Neighbours (KNN)
+    11.3 K Nearest Neighbours (KNN).
     
         11.3.1 Standarize the data.
         
         11.3.2 Statistical model.
         
         11.3.3 Elbow mehtod to chose an optimal K value.
+        
+    11.4 Decision Trees and Random Forests.
+    
+        11.4.1 Splitting the data.
+        
+        11.4.2 Create a decision tree.
+        
+        11.4.3 Random forests.
+        
+    11.5 Support Vector Machines (SVM).
+    
+    11.6 K - Means Clustering.
+    
+    11.7 Principal Component Analysis.
